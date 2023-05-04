@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Musics on Uninspired: Untitled</title>
+    <link>http://TeeHeeImJP.org/music/</link>
+    <description>Recent content in Musics on Uninspired: Untitled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Sep 2022 02:07:04 -0700</lastBuildDate><atom:link href="http://TeeHeeImJP.org/music/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Music</title>
+      <link>http://TeeHeeImJP.org/music/music/</link>
+      <pubDate>Thu, 29 Sep 2022 02:07:04 -0700</pubDate>
+      
+      <guid>http://TeeHeeImJP.org/music/music/</guid>
+      <description>First music submission</description>
+    </item>
+    
+  </channel>
+</rss>

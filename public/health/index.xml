@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Healths on Uninspired: Untitled</title>
+    <link>http://TeeHeeImJP.org/health/</link>
+    <description>Recent content in Healths on Uninspired: Untitled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Sep 2022 19:57:40 -0700</lastBuildDate><atom:link href="http://TeeHeeImJP.org/health/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First_post</title>
+      <link>http://TeeHeeImJP.org/health/first_post/</link>
+      <pubDate>Fri, 30 Sep 2022 19:57:40 -0700</pubDate>
+      
+      <guid>http://TeeHeeImJP.org/health/first_post/</guid>
+      <description>This is my first entry in my health journal. I think it will be neat to see the progression in my health and hopefully see the upward trend that it takes. I haven&amp;rsquo;t decided on how often I will post, most likely once at the end of each month. Not to mention, I haven&amp;rsquo;t decided what exactly I will post in this section.
+Squats Current: 45lbs 5x5 Goal for next month: 60lbs 5x5</description>
+    </item>
+    
+  </channel>
+</rss>

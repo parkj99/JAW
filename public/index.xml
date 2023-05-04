@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uninspired: Untitled</title>
+    <link>http://TeeHeeImJP.org/</link>
+    <description>Recent content on Uninspired: Untitled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Sep 2022 19:57:40 -0700</lastBuildDate><atom:link href="http://TeeHeeImJP.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First_post</title>
+      <link>http://TeeHeeImJP.org/health/first_post/</link>
+      <pubDate>Fri, 30 Sep 2022 19:57:40 -0700</pubDate>
+      
+      <guid>http://TeeHeeImJP.org/health/first_post/</guid>
+      <description>This is my first entry in my health journal. I think it will be neat to see the progression in my health and hopefully see the upward trend that it takes. I haven&amp;rsquo;t decided on how often I will post, most likely once at the end of each month. Not to mention, I haven&amp;rsquo;t decided what exactly I will post in this section.
+Squats Current: 45lbs 5x5 Goal for next month: 60lbs 5x5</description>
+    </item>
+    
+    <item>
+      <title>Journal</title>
+      <link>http://TeeHeeImJP.org/journal/journal/</link>
+      <pubDate>Thu, 29 Sep 2022 22:23:23 -0700</pubDate>
+      
+      <guid>http://TeeHeeImJP.org/journal/journal/</guid>
+      <description>I can&amp;rsquo;t gather when it started, but for the longest time living has felt like a major chore. And quite frankly sometimes you don&amp;rsquo;t quite feel like doing a chore anymore. No matter how hard I try, I can&amp;rsquo;t seem to find the sense of joy in this unceasinsg journey. My one realizatioin is that I deeply enjoy being good at something and sharing this talent with others.</description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>http://TeeHeeImJP.org/music/music/</link>
+      <pubDate>Thu, 29 Sep 2022 02:07:04 -0700</pubDate>
+      
+      <guid>http://TeeHeeImJP.org/music/music/</guid>
+      <description>First music submission</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://TeeHeeImJP.org/about/about/</link>
+      <pubDate>Thu, 29 Sep 2022 02:02:59 -0700</pubDate>
+      
+      <guid>http://TeeHeeImJP.org/about/about/</guid>
+      <description>Hello,
+Welcome to my blog. Enjoy your stay.</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://TeeHeeImJP.org/posts/my-first-post/</link>
+      <pubDate>Mon, 26 Sep 2022 20:39:02 -0700</pubDate>
+      
+      <guid>http://TeeHeeImJP.org/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

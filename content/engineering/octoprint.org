@@ -1,0 +1,88 @@
+#+DATE: some bullshit
+#+AUTHOR: loser
+
+this is a test
+type
+wh cant i type like this wtf
+*this this a better test*
+
+** list [25%]
+- [ ] item one
+- [ ] TODO task description
+- [X] item two
+- [ ] ctrl c twice to check and uncheck
+
+
+*
+**  fuck
+asdf
+type
+
+https://soumendraganguly.com/blog/org_mode_micro/
+
+typelingaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+type jk might need to add some web rendering for this with tables and such
+
+#+BEGIN_CENTER
+#+CAPTION: ingredients
+| Ingredients   | Amount  | Price |
+|---------------+---------+-------|
+| Apple Vinegar | 1/3 cup | $4.99 |
+|---------------+---------+-------|
+#+END_CENTER
+
+#+BEGIN_QUOTE
+Life is but an illusion
+#+END_QUOTE
+
+#+BEGIN_VERSE
+Wat the heck is a verse. like jesus thing?
+#+END_VERSE
+
+#+begin_center
+#+CAPTION: *FUCK YOU PAUL*
+fuck you paul
+#+end_center
+
+
+[[https://soumendraganguly.com/blog/org_mode_micro/][link]]
+
+
+
+This is an exmpale of a footnote[fn:1]
+What if I put two footnotes [fn:2]
+
+#+BEGIN_SRC latex
+This is rendered as latexcodeblock
+#+END_SRC
+this is regular latex
+
+$e^{i\pi} + 1 = 0$
+
+#+BEGIN_SRC C
+int i =0;
+
+if(i > 3){
+ printf("Hello World");
+   }
+#+END_SRC
+
+# Use return statement.
+# Entire source block will get indented and used as the body of main().
+#+BEGIN_SRC python
+def factorial(n):
+    if n == 0:
+        return(1)
+    else:
+        return(n*factorial(n-1))
+
+return(factorial(10))
+#+END_SRC
+wtf this shit actually works
+#+RESULTS:
+: 3628800
+
+{{< youtube id="fZYWwSIvYL0" >}}
+
+[fn:1] https://soumendraganguly.com/blog/org_mode_micro/
+[fn:2] https://soumendraganguly.com/blog/org_mode_micro/

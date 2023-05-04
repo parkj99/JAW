@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Uninspired: Untitled</title>
+    <link>http://TeeHeeImJP.org/about/</link>
+    <description>Recent content in Abouts on Uninspired: Untitled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Sep 2022 02:02:59 -0700</lastBuildDate><atom:link href="http://TeeHeeImJP.org/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://TeeHeeImJP.org/about/about/</link>
+      <pubDate>Thu, 29 Sep 2022 02:02:59 -0700</pubDate>
+      
+      <guid>http://TeeHeeImJP.org/about/about/</guid>
+      <description>Hello,
+Welcome to my blog. Enjoy your stay.</description>
+    </item>
+    
+  </channel>
+</rss>
